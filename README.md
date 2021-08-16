@@ -1,3 +1,2 @@
-# web-platform-hn4o4a
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-hn4o4a)
+# Manchester Machine Makers Old Website
+See the original code at [ManchesterMachineMakers/old-website](https://github.com/manchestermachinemakers/old-website).

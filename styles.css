@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap'); */
 body {
-  font-family: 'IBM Plex Sans';
+  font-family: 'Lato', 'Helvetica Neue', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -8,14 +8,30 @@ body {
   box-sizing: border-box;
   height: 100%;
   margin: 0;
+  color: white;
+  background-color: #353e49;
 }
 a {
-  color: white;
-  background-color: #2aa13a;
-  padding: 10px 30px;
-  border-radius: 5px;
+  color: #ff706c;
   text-decoration: none;
 }
 a:hover {
-  background-color: #22802f;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 18px;
+}
+img {
+  margin-bottom: 0px;
+}
+div#content {
+  padding: 50px;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
